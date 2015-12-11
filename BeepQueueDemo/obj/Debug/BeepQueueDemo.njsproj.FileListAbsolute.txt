@@ -1,0 +1,2 @@
+D:\Projects\BeepQueueDemo\BeepQueueDemo\obj\Debug\BeepQueueDemo.njsprojResolveAssemblyReference.cache
+D:\Projects\BeepQueueDemo\BeepQueueDemo\bin\Microsoft.NodejsTools.WebRole.dll

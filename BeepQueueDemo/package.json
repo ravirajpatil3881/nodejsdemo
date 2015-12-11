@@ -1,0 +1,10 @@
+{
+  "name": "BeepQueueDemo",
+  "version": "0.0.0",
+  "description": "BeepQueueDemo",
+  "main": "app.js",
+  "author": {
+    "name": "Administrator",
+    "email": ""
+  }
+}
